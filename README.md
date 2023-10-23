@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mazurexen
-- 👀 I’m interested in JavaScript, Vue.js, PHP
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in PHP, Python
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me @mazurexe
 
 <!---
