@@ -120,12 +120,8 @@ def construir_solucao(problema):
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mazurexen&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazurexen&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Mazurexen&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Mazurexen&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mazurexen&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
 
