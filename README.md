@@ -6,7 +6,7 @@
 
 Transformo processos complexos em integrações, automações e produtos que realmente funcionam.
 
-[![E-mail](https://img.shields.io/badge/E--mail-matheus%40mazurechen.cloud-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmazu@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-matheusmazu%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmazu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@Mazurexen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mazurexen)
 </div>
 
@@ -70,10 +70,10 @@ Uma curiosidade? Minha formação acadêmica também passa pela **História**, e
 
 ---
 
-## 🔨 O que eu construo
+## Como funciona o meu projeto de construção
 
 ```text
-Problema operacional
+Problema operacional encontrado
         ↓
 Mapeamento do processo e das regras de negócio
         ↓
@@ -131,4 +131,4 @@ def construir_solucao(problema):
 
 Se o assunto envolve **automação, integrações, dados, segurança, IA aplicada ou transformar uma operação complexa em algo que funciona**, provavelmente teremos uma boa conversa.
 
-📫 **[matheus@mazurechen.cloud](mailto:matheus@mazurechen.cloud)**
+📫 **[matheusmazu@gmail.com](mailto:matheusmazu@gmail.com)**
