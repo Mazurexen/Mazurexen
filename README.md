@@ -29,8 +29,6 @@ No dia a dia, trabalho principalmente com:
 
 Uma curiosidade? Minha formação acadêmica também passa pela **História**, e isso influencia bastante a forma como trabalho: gosto de investigar contexto, cruzar fontes, encontrar padrões e entender o problema antes de sair construindo.
 
-> **Menos buzzword, mais coisa funcionando em produção.**
-
 ---
 
 ## Stack principal
