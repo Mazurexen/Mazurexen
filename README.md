@@ -116,19 +116,3 @@ def construir_solucao(problema):
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Mazurexen&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mazurexen&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
-## Bora trocar uma ideia?
-
-Se o assunto envolve **automação, integrações, dados, segurança, IA aplicada ou transformar uma operação complexa em algo que funciona**, provavelmente teremos uma boa conversa.
-
-📫 **[matheusmazu@gmail.com](mailto:matheusmazu@gmail.com)**
